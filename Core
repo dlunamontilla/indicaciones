@@ -55,6 +55,26 @@ Reporting (reportes):
 	Las capacidades de análisis del módulo también ayudan a resolver los objetivos estratégicos y realizar un seguimiento del desempeño y compartir actualizaciones a través de los cuadros de mando disponibles y de los indicadores predeterminados como los de Snowball Metrics.
 
 
-Portal:
+## Portal:
 
-	
+PAPEI permite:
+
+1. Mostrar la información pública de la organización.
+2. Promover sus investigadores y sus logros.
+3. Facilitar la colaboración a través de un portal Web.
+
+> La descripción anterior requiere de muchos detalles y aclaraciones. Se necesita saber si PAPEI será un módulo del sistema.
+
+En el portal de expertos, el motor de huella digital (Fingerprint) crea una visualización única de las huellas econtradas -o el índice semántico distinto- de cada investigador según su experiencia distintiva, permitiendo indicar la experiencia de sus pares y potenciales oportunidades de colaboración y asociación.
+
+> Se necesita saber si **Portal de Expertos** será un submódulo de PAPEI en el caso de que éste sea un módulo. La descripción anterior requiere de detalles específicos y muchas aclaraciones.
+
+
+Usando los datos capturados en PAPEI, cada perfil de investigador ofrece una lista completa de publicaciones, coautores y redes instituciones y una lista de expertos similares. El portal también es compatible con las métricas de impacto, como índica `h` de un investigador y Almetrics de su publicación. Solo el contenido autorizado aparece en los perfiles, garantizando la confidencialidad de la información.
+
+> Posiblemente, **PAPEI** sea un módulo. Se necesitan sabes cuáles datos o qué tipos de datos se van a capturar en cada uno de los ámbitos mencionados en el párrafo anterior.
+
+## Adward Management
+
+Permite realizar un seguimiento del ciclo de vida de la solicitud de financiamiento, oportunidades de financiamiento y proyectos de investigación relacionados. A través del módulo se puede monitorear el estado de cada una de estas solicitudes y las aprobaciones correspondientes. Adicionalmente, permite manejar flujos de revisión y aprobación de las solicitudes (convocatorias), así como manejar objetivos que se deban cumplir durante la ejecúción del proyecto.
+
