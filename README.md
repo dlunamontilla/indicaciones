@@ -55,7 +55,7 @@ Con metadatos e imágenes
 
     -   Informes avanzados de manera flexible y automática de todo el contenido en PAPEI a través del módigo Reporting (Reportes).
 
-        > I**nterpretación:** realiza un informe a partir de los datos previamente almacenados en la base de datos.
+        > **Interpretación:** realiza un informe a partir de los datos previamente almacenados en la base de datos.
 
 Las capacidades de análisis del módulo también ayudan a resolver los objetivos estratégicos y realizar un seguimiento del desempeño y compartir actualizaciones a través de los cuadros de mando disponibles y de los indicadores predeterminados como los de Snowball Metrics.
 
