@@ -47,7 +47,7 @@ Con metadatos e imágenes
 
 2. _Curriculum Vitae (CV)_ soporta actualizaciones automáticas por reglas cuando se añade nuevo contenido y se pueden publicar directamente al sitio Web de su organización o exportar a archivos PDF o DOC.
 
-    > I**nterpretación:** En este caso sería actualizar los datos de los curriculum vitae (CV) en la base de datos directamente en el sitio Web
+    > I**Interpretación:** En este caso sería actualizar los datos de los curriculum vitae (CV) en la base de datos directamente en el sitio Web
 
 ## Reporting (reportes):
 
@@ -55,7 +55,7 @@ Con metadatos e imágenes
 
     -   Informes avanzados de manera flexible y automática de todo el contenido en PAPEI a través del módigo Reporting (Reportes).
 
-        > Interpretación: realiza un informe a partir de los datos previamente almacenados en la base de datos.
+        > I**nterpretación:** realiza un informe a partir de los datos previamente almacenados en la base de datos.
 
 Las capacidades de análisis del módulo también ayudan a resolver los objetivos estratégicos y realizar un seguimiento del desempeño y compartir actualizaciones a través de los cuadros de mando disponibles y de los indicadores predeterminados como los de Snowball Metrics.
 
